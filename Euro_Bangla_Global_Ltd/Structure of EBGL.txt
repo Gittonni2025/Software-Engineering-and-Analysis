@@ -1,0 +1,20 @@
+Euro-Bangla-Global/
+│
+├── index.html
+│
+├── pages/
+│   ├── courses.html
+│   ├── services.html
+│   ├── about.html
+│   └── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── assets/
+    ├── images/
+    ├── icons/
+    └── logo/
